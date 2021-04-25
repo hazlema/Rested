@@ -51,4 +51,4 @@ Slash Commands:
     Help -------------------------------------- /rested help
     Debug ------------------------------------- /rested debug
 
-* Alternitivly you can use /exp instead of /rested for all commands
+* Alternatively you can use /exp instead of /rested for all commands

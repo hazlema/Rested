@@ -298,8 +298,6 @@ end
 -- Events 
 -- ---------------------------------------------------------------------------------------------
 RESTED:SetScript("OnEvent", function()
-    -- The event is the only one we monitor 'ADDON_LOADED'
-    -- The arg1 is the name of the addon being loaded
     if event == "ADDON_LOADED" then
         if arg1 == "Rested" then
             RESTED.init()
